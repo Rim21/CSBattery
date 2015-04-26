@@ -1,0 +1,213 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-23 BZR 5622)-product   date = Sunday, 26 April 2015 07:16:55 pm
+
+BeginCmp
+TimeStamp = /553C079A;
+Reference = C101;
+ValeurCmp = 4.7uf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538BD00;
+Reference = C102;
+ValeurCmp = 4.7uf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538B5A3;
+Reference = C103;
+ValeurCmp = 1uf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5537FC70;
+Reference = CON101;
+ValeurCmp = USB-MICRO-B;
+IdModule  = CSBattery:USB_Micro-B_Custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /55390065;
+Reference = D101;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538F146;
+Reference = D102;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538F1AF;
+Reference = D103;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538E80B;
+Reference = P101;
+ValeurCmp = USB5v;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538E5BE;
+Reference = P102;
+ValeurCmp = ChgV;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538BC92;
+Reference = P103;
+ValeurCmp = Battery;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55390556;
+Reference = P104;
+ValeurCmp = uController;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /553992E6;
+Reference = P105;
+ValeurCmp = Gnd;
+IdModule  = Measurement_Points:Measurement_Point_Round-TH_Small;
+EndCmp
+
+BeginCmp
+TimeStamp = /553820C5;
+Reference = P106;
+ValeurCmp = PwrOut;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /553811D2;
+Reference = Q101;
+ValeurCmp = BC817;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /55381215;
+Reference = Q102;
+ValeurCmp = BC817;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /55380031;
+Reference = R101;
+ValeurCmp = NOPOP;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538005A;
+Reference = R102;
+ValeurCmp = NOPOP;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5537FFD0;
+Reference = R103;
+ValeurCmp = NOPOP;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C1ACB;
+Reference = R104;
+ValeurCmp = 221;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C1A27;
+Reference = R105;
+ValeurCmp = 221;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538125F;
+Reference = R106;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C194B;
+Reference = R107;
+ValeurCmp = 221;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55381167;
+Reference = R108;
+ValeurCmp = 3.6k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538128A;
+Reference = R109;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55381199;
+Reference = R110;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538C2B1;
+Reference = R111;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /553BEB68;
+Reference = SW101;
+ValeurCmp = PwrOutOn;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5538CAB3;
+Reference = TH101;
+ValeurCmp = THERMISTOR;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55376E6C;
+Reference = U101;
+ValeurCmp = MCP73834;
+IdModule  = Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /553C3F66;
+Reference = U102;
+ValeurCmp = P-MFet;
+IdModule  = Power_Integrations:SO-8;
+EndCmp
+
+EndListe

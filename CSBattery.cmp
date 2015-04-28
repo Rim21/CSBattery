@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-23 BZR 5622)-product   date = Sunday, 26 April 2015 07:56:31 pm
+Cmp-Mod V01 Created by Cvpcb (2015-04-23 BZR 5622)-product   date = Tuesday, 28 April 2015 08:11:20 pm
 
 BeginCmp
 TimeStamp = /553C079A;
@@ -47,6 +47,13 @@ TimeStamp = /5538F1AF;
 Reference = D103;
 ValeurCmp = LED;
 IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /553EAD91;
+Reference = D104;
+ValeurCmp = B130-13;
+IdModule  = Diodes_SMD:Diode-DO-214BA;
 EndCmp
 
 BeginCmp
@@ -193,7 +200,7 @@ BeginCmp
 TimeStamp = /5538CAB3;
 Reference = TH101;
 ValeurCmp = THERMISTOR;
-IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+IdModule  = Resistors_ThroughHole:Resistor_Vertical_RM5mm;
 EndCmp
 
 BeginCmp
